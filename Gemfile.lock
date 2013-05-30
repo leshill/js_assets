@@ -2,10 +2,14 @@ PATH
   remote: .
   specs:
     js_assets (0.0.1)
+      execjs (~> 1.4)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    execjs (1.4.0)
+      multi_json (~> 1.0)
+    multi_json (1.7.3)
     rake (10.0.4)
 
 PLATFORMS
