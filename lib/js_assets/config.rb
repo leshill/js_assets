@@ -1,7 +1,7 @@
 module JsAssets
   # Change config options in an initializer:
   #
-  # JsAssets::Config.sources = 'my_source.js'
+  # JsAssets::Config.source_files = 'my_source.js'
   module Config
     extend self
 
